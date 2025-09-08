@@ -1,6 +1,7 @@
 # 2048 Game 🎮  
 A fun and addictive puzzle game built using JavaScript, HTML, and CSS. Combine tiles, reach 2048, and challenge yourself to go even further!
-👉 [Play the Game Here](https://SaniaSalahuddin.github.io/2048-game/)
+👉 [Play the Game Here](https://SaniaSalahuddin.github.io/2048-Game-JavaScript/)
+
 ## ✨ Features
 - Classic 2048 gameplay
 - Smooth arrow key controls
