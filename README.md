@@ -17,7 +17,7 @@ A fun and addictive puzzle game built using JavaScript, HTML, and CSS. Combine t
 ## 🚀 Run Locally
 1. Clone this repo  
    ```bash
-   git clone https://github.com/YourUsername/2048-game.git
+   git clone https://github.com/SaniaSalahuddin/2048-game.git
 ## 🛠️ Built With
 - HTML5
 - CSS3
